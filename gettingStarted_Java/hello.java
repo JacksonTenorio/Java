@@ -1,6 +1,6 @@
 package gettingStarted_Java;
 public class hello {
-    public void name(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Hello World");
         
     }
